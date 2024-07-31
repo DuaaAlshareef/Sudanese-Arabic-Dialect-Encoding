@@ -1,25 +1,15 @@
-# Sudanese-Arabic-Dialect-Encoding-Using-XLM-RoBERTa-(Zol-RoBERTa)
+# Sudanese-Arabic-Dialect-Encoding-Using-XLM-RoBERTa-(Zol-RoBERTa) 
+University Of Khartoum BSc Thesis Project
 
 
 ## Overview
-Zol-RoBERTa is a specialized language model designed for sentiment analysis in the Sudanese Arabic dialect, leveraging the XLM-RoBERTa model. This project aims to enhance the understanding and processing of Sudanese Arabic by fine-tuning a pre-trained model on a Sudanese dialect corpus.
 
-## Overview
+This project, "Zol-RoBERTa" is a development of a language model specifically for the Sudanese-Arabic dialect using the XLM-RoBERTa architecture. The model was pre-trained on a Sudanese corpus enhancing the understanding of this underrepresented dialect in NLP research. The project's core achievement is leveraging Multilingual RoBERTa to accommodate the linguistic characteristics of the Sudanese dialect, providing a crucial resource for processing this language. The model's performance was evaluated through Sentiment Analysis, showcasing significant improvements in handling both the Sudanese dialect and Modern Standard Arabic. This work marks a significant advancement in NLP resources for low-resource languages.
 
-The Zol-RoBERTa focuses on developing a comprehensive language model specifically tailored for the Sudanese Arabic dialect, a language spoken by over 40 million people. This project aims to fill a significant gap by creating a model that captures the linguistic features of the Sudanese-Arabic Dialect. This promotes inclusivity in language technology, making advanced NLP tools accessible for a wider range of users.
-
-The model's perfomance was evaluated using Sentiment nalysis, achieving notable accuracy. However, the broader objective extends beyond sentiment analysis, aiming to enhance NLP applications across various fields, including agriculture. Here, the model can support a new generation of farmers, providing them with tools to navigate daily challenges, thereby contributing to economic and social development in Sudan. This project not only advances NLP for underrepresented languages but also fosters a more inclusive and diverse technological landscape.
 
 ### Why is this project important ?
 
-Sentiment analysis was used as an evaluation task to measure the model's performance, but the broader objective is to enhance NLP capabilities for a variety of applications in the Sudanese Dialect. This model can support a new generation of educated but practically inexperienced farmers in agriculture by offering deep learning tools that provide insights and answers to routine farming activities. Overall, this project has the potential to drive economic and social development in Sudan.
-
-
-
-
-
-
-
+The broader objective is to enhance NLP capabilities for a variety of applications in the Sudanese-Arabic dialect. This model can support a new generation of educated but practically inexperienced farmers in agriculture by offering deep learning tools that provide insights and answers to routine farming activities. Overall, this project has the potential to drive economic and social development in Sudan.
 
 
 ## Dataset Used
