@@ -28,9 +28,15 @@ For the sentiment analysis task, two datasets were primarily used:
 
 ### Methodology Overview:
 
+<<<<<<< HEAD
 <p align="center">
   <img src="images/Methodology.png" alt="Alt text" width="500"/>
 </p>
+=======
+<div style="text-align: center;">
+  <img src="images/Methodology_figures.png" alt="Alt text" width="400"/>
+</div>
+>>>>>>> b9f78bf (updated the readme file)
 
 
 #### Stages:
