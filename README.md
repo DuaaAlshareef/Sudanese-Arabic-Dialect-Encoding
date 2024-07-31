@@ -30,17 +30,17 @@ For the sentiment analysis task, two datasets were primarily used:
 1. **Transportation Services Dataset**: Includes 2,116 tweets discussing transportation services.
 2. **Telecommunication Services Dataset**: Contains 4,712 tweets expressing opinions about telecommunication services in Sudan, categorized into positive, negative, and neutral sentiments.
 
-    **Sample of the dataset:**
-    <div style="text-align: center;">
-    <img src="images/rev_tele.png" alt="Alt text" width="300"/>
-    </div>
+**Sample of the dataset:**
 
+<p align="center">
+  <img src="images/rev_tele.png" alt="Alt text" width="400"/>
+</p>
 
 ### Methodology Overview:
 
-<div style="text-align: center;">
-  <img src="images/Methodology.png" alt="Alt text" width="400"/>
-</div>
+<p align="center">
+  <img src="images/Methodology.png" alt="Alt text" width="500"/>
+</p>
 
 
 #### Stages:
@@ -51,9 +51,10 @@ For the sentiment analysis task, two datasets were primarily used:
 
 
 
-<div style="text-align: center;">
-  <img src="images/fine-tuning_fin.png" alt="Alt text" width="250"/>
-</div>
+<p align="center">
+  <img src="images/fine-tuning_fin.png" alt="Alt text" width="300"/>
+</p>
+
 
 ## Evaluation and Results
 
@@ -80,5 +81,4 @@ To use the Zol-RoBERTa model , follow these steps to set up your environment:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/DuaaAlshareif/Sudanese-Encoding.git
-   cd Sudanese-Encoding
+   git clone https://github.com/DuaaAlshareef/Sudanese-Arabic-Dialect-Encoding.git
