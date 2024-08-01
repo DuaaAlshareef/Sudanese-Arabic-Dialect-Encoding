@@ -20,23 +20,19 @@ For the sentiment analysis task, two datasets were primarily used:
 1. **Transportation Services Dataset**: Includes 2,116 tweets discussing transportation services.
 2. **Telecommunication Services Dataset**: Contains 4,712 tweets expressing opinions about telecommunication services in Sudan, categorized into positive, negative, and neutral sentiments.
 
-**Sample of the dataset:**
+    #### **Sample of the dataset:**
 
-<p align="center">
-  <img src="images/rev_tele.png" alt="Alt text" width="400"/>
-</p>
+  <p align="center">
+    <img src="images/rev_tele.png" alt="Alt text" width="400"/>
+  </p>
 
 ### Methodology Overview:
 
-<<<<<<< HEAD
-<p align="center">
-  <img src="images/Methodology.png" alt="Alt text" width="500"/>
-</p>
-=======
+
 <div style="text-align: center;">
   <img src="images/Methodology_figures.png" alt="Alt text" width="400"/>
 </div>
->>>>>>> b9f78bf (updated the readme file)
+<p align="center"><em> Methodology illustration.</em></p>
 
 
 #### Stages:
@@ -50,7 +46,7 @@ For the sentiment analysis task, two datasets were primarily used:
 <p align="center">
   <img src="images/fine-tuning_fin.png" alt="Alt text" width="300"/>
 </p>
-
+<p align="center"><em> Fine-tuning process illustration.</em></p>
 
 ## Evaluation and Results
 
