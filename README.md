@@ -29,15 +29,15 @@ For the sentiment analysis task, two datasets were primarily used:
 ### Methodology Overview:
 
 
-<div style="text-align: center;">
-  <img src="images/Methodology_figures.png" alt="Alt text" width="400"/>
-</div>
+<p align="center">
+  <img src="images/methodology_figures.png" alt="Alt text" width="400"/>
+</p>
 <p align="center"><em> Methodology illustration.</em></p>
 
 
 #### Stages:
 
-- **Pre-training Stage:** The model underwent pre-training on a Sudanese Arabic dialect , based on the XLM-RoBERTa architecture, was pre-trained on a Sudanese Arabic dialect corpus. This phase was essential to enhance the model's understanding of the unique linguistic features of Sudanese-Arabic dialect .
+- **Pre-training Stage:** The model underwent pre-training on Sudanese-Arabic dialect, based on the XLM-RoBERTa architecture, was pre-trained on a Sudanese Arabic dialect corpus. This phase was essential to enhance the model's understanding of the unique linguistic features of the Sudanese-Arabic dialect .
 
 - **Fine-Tuning Stage:** The pre-trained model was then fine-tuned for Sentiment Analysis, adapting it (adding two classification layers) to classify text into positive, negative, or neutral sentiments. This stage refines the model's capabilities to accurately interpret sentiment-specific features in the language.
 
